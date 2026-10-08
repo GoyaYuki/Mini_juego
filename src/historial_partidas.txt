@@ -1,0 +1,3 @@
+1,Thiago,Piedra,Tijera,Victoria
+2,Sofia,Papel,Tijera,Derrota
+3,Martina,Tijera,Tijera,Empate
