@@ -11,3 +11,7 @@ Implementacion del codigo principal main.cpp y LICENSE.7
 ## [0.3.0] - 2026-10-14
 ### Añadido
 Implementacion del .gitignore y capturas de ejecucion
+
+## [0.3.0] - 2026-10-14
+### Añadido
+implementacion de manuales de usuario y de programador e informe de la actividad
