@@ -6,4 +6,8 @@ Implementacion de estructura de carpetas
 
 ## [0.2.0] - 2026-10-14
 ### Añadido
-Implementacion del codigo principal main.cpp y LICENSE.
+Implementacion del codigo principal main.cpp y LICENSE.7
+
+## [0.3.0] - 2026-10-14
+### Añadido
+Implementacion del .gitignore y capturas de ejecucion
